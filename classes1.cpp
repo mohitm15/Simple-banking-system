@@ -93,7 +93,7 @@ int main()
       std::cout << endl << '\n';
     }
   else if(t==0)
-  std::cout << "Thnank you  :p !!!" << '\n';
+  std::cout << "Thank you  :p !!!" << '\n';
 
 return 0;
 }
