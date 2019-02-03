@@ -1,5 +1,4 @@
-#include<iostream>
-#include<iomanip>
+#include<bits/stdc++.h>
 #define size 10
 using namespace std;
 
@@ -94,7 +93,7 @@ int main()
       std::cout << endl << '\n';
     }
   else if(t==0)
-  std::cout << "Thnk u  :p" << '\n';
+  std::cout << "Thnank you  :p !!!" << '\n';
 
 return 0;
 }
